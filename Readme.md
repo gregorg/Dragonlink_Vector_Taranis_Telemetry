@@ -21,11 +21,11 @@ First version
 1. Enable telemetry from Dragonlink to your Taranis
 2. Enable telemetry from Vector to Dragonlink
 
-Follow those youtube tutorials: 
+Follow those youtube tutorials from [jmxp69 Youtube channel](https://www.youtube.com/channel/UCcJwn8V3MTsib2LjAcTnarg): 
 
-1. https://www.youtube.com/watch?v=lkADQvqdozI
-2. https://www.youtube.com/watch?v=5HS3AZ5jNJ8
-3. https://www.youtube.com/watch?v=IBhJB5RaJ74
+1. [Part 1: wiring](https://www.youtube.com/watch?v=lkADQvqdozI)
+2. [Part 2: software](https://www.youtube.com/watch?v=5HS3AZ5jNJ8)
+3. [Part 3: radio](https://www.youtube.com/watch?v=IBhJB5RaJ74) - on this part, replace dlvector.lua by DLVT.lua
 
 
 
